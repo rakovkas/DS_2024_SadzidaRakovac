@@ -1,6 +1,9 @@
 package week3;
 
 import org.junit.jupiter.api.*;
+import week3.labTask.FileUtils;
+import week3.labTask.IPAddress;
+import week3.labTask.IPSearch;
 
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,4 +1,6 @@
-package week3;
+package week3.labTask;
+
+import week3.labTask.IPAddress;
 
 public class IPSearch {
     public static IPAddress search(IPAddress[] ipAddresses, String ipAddress) {

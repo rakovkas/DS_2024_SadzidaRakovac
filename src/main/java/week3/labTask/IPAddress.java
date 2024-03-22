@@ -1,4 +1,4 @@
-package week3;
+package week3.labTask;
 
 public class IPAddress {
     private long startIp;
