@@ -40,6 +40,7 @@ build/
 IP2LOCATION.csv
 raw_phonebook_data.csv
 raw_phonebook_data_sorted.csv.csv
+social_network.csv
 .idea/misc.xml
 .idea/uiDesigner.xml
 .idea/misc.xml
